@@ -16,7 +16,11 @@ h2 {
 
 
 p {
-    color: #555;
+    color:  #333;
+}
+
+strong {
+    color: #0a41f7;
 }
 
 #education, #experience, #language {
