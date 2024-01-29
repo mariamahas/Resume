@@ -10,6 +10,10 @@ header {
 h1 {
     color: #333;
 }
+h2 {
+    color: #0a41f7;
+}
+
 
 p {
     color: #555;
@@ -33,4 +37,9 @@ ul {
 /* Style for language section */
 #language p {
     margin-bottom: 5px;
+}
+/* Style for language section */
+#experience p {
+    margin-bottom: 5px;
+    color:brown
 }
